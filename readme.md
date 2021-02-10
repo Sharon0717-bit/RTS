@@ -1,4 +1,4 @@
-# Team 7 RTS Codes
+# RTS Codes
 
 ## Description
 
@@ -90,4 +90,4 @@ Decode.csv(Not used for running the code, but finding the corresponding variable
 
 ## Authors and acknowledgment
 
-There are four members in our project team, Xiaoran Li (Project Manager), Weiran Lin (Algorithm Engineer), Melissa Chan (Algorithm Engineer), and Weinan Hu (Algorithm Engineer). We are all second-year MS Data science students at the University of Rochester.
+There are four members in our project team, Xiaoran Li (Project Manager), Weiran Lin (Algorithm Engineer), Melissa Chan (Algorithm Engineer), and Weinan Hu (Algorithm Engineer).
